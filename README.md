@@ -5,3 +5,4 @@ NIM: 253303620005
 Link Expo Snack:
 https://snack.expo.dev/@cher-expo/my-expo-card
 
+https://docs.google.com/document/d/1ppIvq6QtzqTT3nPSg-KWHo1OJ52qM8AZgbdB0SVF_Pw/edit?usp=sharing
